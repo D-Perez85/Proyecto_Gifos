@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  overflow-x: hidden;
+}
+/* ESTILOS DARK */
+.App.darkMode {
+  background-color: rgb(32, 32, 44);
+  height: 100vh;
+}
+.darkMode h1,
+.darkMode h2 {
+  color: white;
+}
+.darkMode .btn-header {
+  border: 2px solid white;
+  background-color: rgb(143, 31, 218);
+  color: white;
+}
+.darkMode .btn {
+  background: rgb(143, 31, 218);
+  border: 2px solid white;
+}
+.darkMode .gifs {
+  border: 1px solid white;
+}
+
+.darkMode .suggest{
+  color: white;
+}
+
+
