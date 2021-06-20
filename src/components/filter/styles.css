@@ -1,6 +1,6 @@
-.text-complete, 
-.search-btn, 
-.input-search{
+.text-complete,
+.search-btn,
+.input-search {
   cursor: pointer;
 }
 .content-filter,
@@ -34,7 +34,6 @@
   outline: none;
   font-size: 1em;
   padding: 10px;
- 
 }
 .gifo {
   margin: -3px auto;
@@ -52,13 +51,11 @@
   display: flex;
   flex-direction: row;
 }
-.text-complete{
+.text-complete {
   margin-top: -4px;
 }
-.text-complete:hover{
+.text-complete:hover {
   color: #cecece;
-
-
 }
 @media (max-width: 746px) {
   .gifo {
